@@ -211,4 +211,4 @@ SpeedFan is available as a **full free version** with **all features included** 
 Unlock the full potential of your CPU today! Download SpeedFan now and take control of your system's performance!
 
 ---
-**Last updated:** 2026-11-06 23:37:07 UTC
+**Last updated:** 2026-11-07 04:25:45 UTC
